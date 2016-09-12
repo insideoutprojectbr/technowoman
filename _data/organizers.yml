@@ -1,0 +1,8 @@
+-
+  group: "Organizadores"
+  elements:
+    - {name: "Universidade Unigranrio", description: "Universidade Unigranrio", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+-
+  group: "Co-organizadores"
+  elements:
+    - {name: "GDG Caxias", description: "GDG Caxias", link: "http://kyiv.gdg.org.ua", imageUrl: "gdgcaxias.png"}
