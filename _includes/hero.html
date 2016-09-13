@@ -1,9 +1,8 @@
 <!-- Begin Hero Section -->
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     {% include navigation.html %}
-    <div id="particles-js" class="content-wrapper">
     <div class="jumbotron">
-      <img src="{{site.baseurl}}/img/sections-background/logo-unigranrio.png" width="600px" alt="" />
+      <img src="{{site.baseurl}}/img/sections-background/riodevday-logo.png" width="600px" alt="" />
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>

@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Semana de Tecnologia - Unigranrio 2016"
-email: "techweek@unigranrio.edu.br"
+title: "Rio DevDay"
+email: "gdgrio@googlegroups.com"
 description: "Semana de Tecnologia, um evento que ocorre de ano em ano na Unigranrio."
-baseurl: "/semana-informatica"
-url: "semanatecnologia.unigranrio.com.br"
+baseurl: "/riodevday"
+url: "gdgrio.org/riodevday"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -55,18 +55,18 @@ rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Seja um Palestrante"}
 
 # Hero Block
-heroImage: "hero.jpg"
-logoUnigranrio: "logo-unigranrio.png"
-heroTitle: "Semana de Tecnologia 2016 - <typeout>"
+heroImage: "rio-walp.png"
+logoUnigranrio: "riodevday-logo.png"
+heroTitle: "Rio DevDay - <typeout>"
 eventDate: "Setembro, 2016"
-typeoutTextValues: '"", "Data Science", "IoT", "Development"'
+typeoutTextValues: '"", "We Love Development", "Google Technologies", "#GDGRio"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Seja um Palestrante"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Sobre a Semana de Tecnologia"
+aboutTitle: "Sobre o Rio DevDay"
 aboutBlock:
  - {title: "Data Mining", image: "bigdata.jpg", text: "Palestras sobre mineração de dados trazendo uma experiência divertida e de grande valor!." }
  - {title: "Internet of Things", image: "iot.png", text: "Palestras, debates, demonstrações e minicursos sobre a Internet das Coisas." }
