@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Rio DevDay"
 email: "gdgrio@googlegroups.com"
-description: "Semana de Tecnologia, um evento que ocorre de ano em ano na Unigranrio."
+description: "Evento para juntar as comunidades de desenvolvimento do Rio."
 baseurl: "/riodevday.github.io"
 url: "gdgrio.org/riodevday"
 permalink: "/blog/:title"
@@ -21,16 +21,16 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "Seres Humanos que curtem tecnologia"
+organizerAlternateName: "Seres Humanos que curtem tecnologia"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "jonatasemidio@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://riodevday.github.io/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, rio"
+twitterAccount: "@gdgrio"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -59,7 +59,7 @@ heroImage: "rio-walp.png"
 logoUnigranrio: "riodevday-logo.png"
 heroTitle: "Rio DevDay - <typeout>"
 eventDate: "Setembro, 2016"
-typeoutTextValues: '"", "We Love Development", "Google Technologies", "#GDGRio"'
+typeoutTextValues: '"", "Build Better Together", "GDG Rio", "GDG Duque de Caxias"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Seja um Palestrante"}
@@ -91,10 +91,10 @@ rockstarSpeakersButtonText: "Ver todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Universidade Unigranrio"
+eventLocationName: "A definir"
 eventLocationLink: "#"
-eventStreetAddress: "Rua Professor José de Souza Herdy, 1160"
-eventAddressLocality: "Duque de Caxias"
+eventStreetAddress: "Estado do Rio de Janeiro"
+eventAddressLocality: "Estado do Rio de Janeiro"
 eventAddressLocalityRegion: "Rio de Janeiro"
 eventPostalCode: ""
 eventAddressCountry: "Brasil"
@@ -106,18 +106,18 @@ mapCenterCoordinates: "-22.7891254, -43.3061874"
 mapMobileCenterCoordinates: "-22.7891254, -43.3061874"
 
 # Venue Block
-venueBlockTitle: "Unigranrio"
+venueBlockTitle: "Auditório"
 venueBigImage: "auditorio.png"
 venueSmallImage1: "bliblioteca.png"
 #venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
-venueTitle: "Auditório Unigranrio"
+venueTitle: "Auditório"
 venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", "Localizado dentro da Universidade"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "e aí?"
-twitterHashTag: "unigranrio"
+twitterHashTag: "riodevday"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
