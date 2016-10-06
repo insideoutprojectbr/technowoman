@@ -1,52 +1,11 @@
-
-#-------------------Outros
 -
-  id: 100
-  title: "Abertura"
-  place: "Auditório"
-  service: true
-  description: "Abertura do evento e recolhimento das doações!!"
--
-
-  id: 101
-  title: "Parada pra Almoço"
+  id: 307
+  title: "Parada pra Lanche"
   place: "Praça de Alimentação"
   service: true
-  description: "Momento legal para trocar ideia com alguns participantes e palestrantes e reabastecer."
+  description: "Momento legal para trocar ideia com alguns participantes e palestrantes."
 -
-
-  id: 102
-  title: "Encerramento"
-  place: "Auditório"
-  service: true
-  description: "Encerramento."
--
-
-# ---------------Talks
-  id: 200
-  title: "Criando Aplicações Híbridas"
-  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
-  subtype: apresentação
-  speakers: [1]
-  language: pt-Br
-  complexity: "iniciante"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
-# ---------------------Lightning Talks
-  id: 300
-  title: "Criando Aplicações Híbridas"
-  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
-  subtype: apresentação
-  speakers: [1]
-  language: pt-Br
-  complexity: "iniciante"
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-
-# ------------------------Workshops
-
-  id: 400
+  id: 002
   title: "Criando Aplicações Híbridas"
   description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
   subtype: apresentação
