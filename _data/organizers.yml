@@ -2,20 +2,20 @@
   group: "Voluntários"
   elements:
     - {name: "Paola Katherine", description: "Paola Katherine", link: "http://www.about.me/pkcpweb", imageUrl: "paola.jpg"}
-    - {name: "Gabriel Lima", description: "Gabriel Lima", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Lucas Trindade", description: "Lucas Trindade", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Raffael Tancman", description: "Raffael Tancman", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Jonatas Emidio", description: "Jonatas Emidio", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Fredd Gomes", description: "Fredd Gomes", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Raissa", description: "Raissa", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Paulo Kouri", description: "Paulo Kouri", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Eduardo Stalinho", description: "Eduardo Stalinho", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: "Igor Felipe", description: "Igor Felipe", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: " Alberto Leite", description: "Alberto Leite", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: " Felipe Vidal", description: "Felipe Vidal", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: " Rafael Tauil", description: "Rafael Tauil", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: " Tiago Potência", description: "Tiago Potência", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    - {name: " Vagner Zampiere", description: "Vagner Zampiere", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Gabriel Lima", description: "Gabriel Lima", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Lucas Trindade", description: "Lucas Trindade", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Raffael Tancman", description: "Raffael Tancman", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Jonatas Emidio", description: "Jonatas Emidio", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Fredd Gomes", description: "Fredd Gomes", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Raissa", description: "Raissa", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Paulo Kouri", description: "Paulo Kouri", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Eduardo Stalinho", description: "Eduardo Stalinho", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Igor Felipe", description: "Igor Felipe", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Alberto Leite", description: "Alberto Leite", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Felipe Vidal", description: "Felipe Vidal", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Rafael Tauil", description: "Rafael Tauil", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Tiago Potência", description: "Tiago Potência", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Vagner Zampiere", description: "Vagner Zampiere", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
 
 -
   group: "Comunidades"
