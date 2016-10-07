@@ -46,7 +46,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/team/", text: "Organizadores"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -107,9 +107,9 @@ mapMobileCenterCoordinates: "-22.8782071,-43.272322"
 
 # Venue Block
 venueBlockTitle: "Estácio - Shopping Nova América"
-venueBigImage: "auditorio.png"
-venueSmallImage1: "bliblioteca.png"
-#venueSmallImage2: "venue_2.jpg"
+venueBigImage: "auditorio.jpg"
+venueSmallImage1: "novaamerica.png"
+venueSmallImage2: "novaamerica-2.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Auditório"
 venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", "Localizado dentro da Universidade", "Universidade localizada dentro de um shopping!"]
