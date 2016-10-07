@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rio DevDay</title>
+    <title>Rio Dev Day</title>
     <description>Evento para juntar as comunidades de desenvolvimento do Rio.</description>
     <link>gdgrio.org/riodevday/riodevday.github.io/</link>
     <atom:link href="gdgrio.org/riodevday/riodevday.github.io/feed.xml" rel="self" type="application/rss+xml" />
