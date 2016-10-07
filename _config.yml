@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Rio DevDay"
+title: "Rio Dev Day"
 email: "rio.gdg@gmail.com"
 description: "Evento para juntar as comunidades de desenvolvimento do Rio."
 baseurl: "/riodevday.github.io"
@@ -46,7 +46,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- #- {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/team/", text: "Equipe"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -101,18 +101,18 @@ eventAddressCountry: "Brasil"
 eventStartTime: "2016-11-19T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2016-11-19T17:00"
-eventPlaceCoordinates: "-22.7891254, -43.3061874"
-mapCenterCoordinates: "-22.7891254, -43.3061874"
-mapMobileCenterCoordinates: "-22.7891254, -43.3061874"
+eventPlaceCoordinates: "-22.8782071,-43.272322"
+mapCenterCoordinates: "-22.8782071,-43.272322"
+mapMobileCenterCoordinates: "-22.8782071,-43.272322"
 
 # Venue Block
-venueBlockTitle: "Auditório"
+venueBlockTitle: "Estácio - Shopping Nova América"
 venueBigImage: "auditorio.png"
 venueSmallImage1: "bliblioteca.png"
 #venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
 venueTitle: "Auditório"
-venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", "Localizado dentro da Universidade"]
+venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", "Localizado dentro da Universidade", "Universidade localizada dentro de um shopping!"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -212,8 +212,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "-22.8782071,-43.272322"
+logisticsMapMobileCenterCoordinates: "-22.8782071,-43.272322"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
