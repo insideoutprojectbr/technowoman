@@ -2,20 +2,17 @@
   group: "Voluntários"
   elements:
     - {name: "Paola Katherine", description: "Paola Katherine", link: "http://www.about.me/pkcpweb", imageUrl: "paola.jpg"}
+    - {name: "Raysa Dutra", description: "Raysa Dutra", link: "http://contactup.io/_u1276/", imageUrl: "raysadutra.jpg"}
     # - {name: "Gabriel Lima", description: "Gabriel Lima", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: "Lucas Trindade", description: "Lucas Trindade", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: "Raffael Tancman", description: "Raffael Tancman", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: "Jonatas Emidio", description: "Jonatas Emidio", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: "Fredd Gomes", description: "Fredd Gomes", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: "Raissa", description: "Raissa", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: "Paulo Kouri", description: "Paulo Kouri", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    - {name: "Lucas Trindade", description: "Lucas Trindade", link: "https://twitter.com/lucasktrindade", imageUrl: "lucas_trindade.jpg"}
+    - {name: "Raffael Tancman", description: "Raffael Tancman", link: "http://www.rtancman.com.br/", imageUrl: "raffael.jpg"}    # - {name: "Jonatas Emidio", description: "Jonatas Emidio", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    - {name: "Fredd Gomes", description: "Fredd Gomes", link: "https://plus.google.com/u/0/111570786775645702955", imageUrl: "freddgomes.jpg"}     # - {name: "Raissa", description: "Raissa", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+
     # - {name: "Eduardo Stalinho", description: "Eduardo Stalinho", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
     # - {name: "Igor Felipe", description: "Igor Felipe", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
     # - {name: " Alberto Leite", description: "Alberto Leite", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
     # - {name: " Felipe Vidal", description: "Felipe Vidal", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: " Rafael Tauil", description: "Rafael Tauil", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
     # - {name: " Tiago Potência", description: "Tiago Potência", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
-    # - {name: " Vagner Zampiere", description: "Vagner Zampiere", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
 
 -
   group: "Comunidades"
@@ -23,5 +20,5 @@
     - {name: "GDG Rio", description: "GDG Rio", link: "http://fb.com/GDGRio", imageUrl: "logo-gdg-rio.png"}
     - {name: "Python Rio", description: "Python Rio", link: "http://fb.com/PythONRio", imageUrl: "logo-pythonrio.png"}
     - {name: "Ruby on Rio", description: "Ruby on Rio", link: "http://kyiv.gdg.org.ua", imageUrl: "logo-ruby-on-rio.png"}
-    - {name: "Woman Teckmakers Rio", description: "Woman Teckmakers Rio", link: "http://fb.com/WomanTeckmakersRio", imageUrl: "logo-wtm.png"}
+    - {name: "Woman Techmakers Rio", description: "Woman Techmakers Rio", link: "http://fb.com/WomanTechmakersRio", imageUrl: "logo-wtm.png"}
     - {name: "Pyladies  Rio", description: "Pyladies Rio", link: "http://rio.pyladies.com", imageUrl: "logo-pyladies.png"}

@@ -59,7 +59,7 @@ heroImage: "rio-walp.png"
 logoUnigranrio: "riodevday-logo.png"
 heroTitle: "Rio Dev Day - <typeout>"
 eventDate: "19 de novembro de 2016"
-typeoutTextValues: '"", "Build Better Together", "GDG Rio", "Python Rio", "Ruby on Rio", "Pyladies Rio", "Woman Teckmakers Rio"'
+typeoutTextValues: '"", "Build Better Together", "GDG Rio", "Python Rio", "Ruby on Rio", "Pyladies Rio", "Woman Techmakers Rio"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
