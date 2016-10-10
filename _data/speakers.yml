@@ -1,30 +1,30 @@
--
-  id: 1
-  name: "Gabriel"
-  surname: "Lima"
-  company: "GDG Caxias"
-  title: "Organizador GDG Caxias, Desenvolvedor Unigranrio"
-  bio: "Gabriel é organizer e fundador do GDG Duque de Caxias. Gabriel também é um dos idealizadores e criadores do AppUnigranrio, aplicativo que auxilia alunos de graduação e pós-graduação nas tarefas e acompanhamento da vida acadêmica. Gabriel faz parte de alguns projetos open-source e está sempre ligado em tecnologias novas. Fanboy de Android, Java, AngularJS e Ionic."
-  thumbnailUrl: GabrielLima.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-    - {name: "twitter", link: "https://twitter.com/gabrielclima"}
-    - {name: "github", link: "https://github.com/gabrielclima"}
--
-  id: 2
-  name: "Lucas"
-  surname: "Trindade"
-  company: "GDG Caxias"
-  title: "Organizador GDG Caxias, Desenvolvedor NEaD Unigranrio"
-  bio: "Lucas Trindade (vulgo Luquinhas Sensação) é um dos organizadores do GDG Duque de Caxias. Luquinhas também é desenvolvedor na Unigranrio, no Núcleo  de Educação a Distância, monta cursos, os coloca on-line. Lucas tem grande experiência com front-end mas também entende de back-end. Luquinhas é fanboy de Python - Django, Laravel, AngularJS e apoia Dilma."
-  thumbnailUrl: LucasTrindade.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+LucasKTrindade/"}
-    - {name: "twitter", link: "https://twitter.com/lucasktrindade"}
-    - {name: "github", link: "https://github.com/lucasktrindade"}
+# -
+#   id: 1
+#   name: "Gabriel"
+#   surname: "Lima"
+#   company: "GDG Caxias"
+#   title: "Organizador GDG Caxias, Desenvolvedor Unigranrio"
+#   bio: "Gabriel é organizer e fundador do GDG Duque de Caxias. Gabriel também é um dos idealizadores e criadores do AppUnigranrio, aplicativo que auxilia alunos de graduação e pós-graduação nas tarefas e acompanhamento da vida acadêmica. Gabriel faz parte de alguns projetos open-source e está sempre ligado em tecnologias novas. Fanboy de Android, Java, AngularJS e Ionic."
+#   thumbnailUrl: GabrielLima.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+#   social:
+#     - {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+#     - {name: "twitter", link: "https://twitter.com/gabrielclima"}
+#     - {name: "github", link: "https://github.com/gabrielclima"}
+# -
+#   id: 2
+#   name: "Lucas"
+#   surname: "Trindade"
+#   company: "GDG Caxias"
+#   title: "Organizador GDG Caxias, Desenvolvedor NEaD Unigranrio"
+#   bio: "Lucas Trindade (vulgo Luquinhas Sensação) é um dos organizadores do GDG Duque de Caxias. Luquinhas também é desenvolvedor na Unigranrio, no Núcleo  de Educação a Distância, monta cursos, os coloca on-line. Lucas tem grande experiência com front-end mas também entende de back-end. Luquinhas é fanboy de Python - Django, Laravel, AngularJS e apoia Dilma."
+#   thumbnailUrl: LucasTrindade.jpg
+#   rockstar: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+#   social:
+#     - {name: "google-plus", link: "https://plus.google.com/+LucasKTrindade/"}
+#     - {name: "twitter", link: "https://twitter.com/lucasktrindade"}
+#     - {name: "github", link: "https://github.com/lucasktrindade"}
