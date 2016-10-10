@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Coisa Nova!"
+title:  "Se inscreva !"
 date:   2014-07-21 08:00:00
 isStaticPost: false
 ---
 
-Nós estamos muito aciosos para a Semana de Tecnologia. Temos nesse ano o objetivo de ir além da expectativa de todos em relação ao evento.
+ Se você quer participar do Rio Dev Day, não se esqueca de se inscrever no site da Eventbrite!!
+
