@@ -46,7 +46,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
- # - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/team/", text: "Organizadores"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
