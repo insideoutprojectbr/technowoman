@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rio DevDay</title>
-    <description>Semana de Tecnologia, um evento que ocorre de ano em ano na Unigranrio.</description>
-    <link>gdgrio.org/riodevday/riodevday/</link>
-    <atom:link href="gdgrio.org/riodevday/riodevday/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Rio Dev Day</title>
+    <description>Evento para juntar as comunidades de desenvolvimento do Rio.</description>
+    <link>gdgrio.org/riodevday/riodevday.github.io/</link>
+    <atom:link href="gdgrio.org/riodevday/riodevday.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Call for Papers</title>
-        <description>&lt;p&gt;Se você tem interesse em demonstrar suas habilidades sobre algum dos temas que vão estar presentes na nossa Semana de Tecnologia, se inscreva no nosso Call4Papers.&lt;/p&gt;
+        <description>&lt;p&gt;Se você tem interesse em demonstrar suas habilidades , se inscreva no nosso Call4Papers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Jul 2014 06:00:00 -0300</pubDate>
-        <link>gdgrio.org/riodevday/riodevday/blog/call-for-papers</link>
-        <guid isPermaLink="true">gdgrio.org/riodevday/riodevday/blog/call-for-papers</guid>
+        <link>gdgrio.org/riodevday/riodevday.github.io/blog/call-for-papers</link>
+        <guid isPermaLink="true">gdgrio.org/riodevday/riodevday.github.io/blog/call-for-papers</guid>
       </item>
     
       <item>
-        <title>Coisa Nova!</title>
-        <description>&lt;p&gt;Nós estamos muito aciosos para a Semana de Tecnologia. Temos nesse ano o objetivo de ir além da expectativa de todos em relação ao evento.&lt;/p&gt;
+        <title>Se inscreva !</title>
+        <description>&lt;p&gt;Se você quer participar do Rio Dev Day, não se esqueca de se inscrever no site da Eventbrite!!&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 21 Jul 2014 05:00:00 -0300</pubDate>
-        <link>gdgrio.org/riodevday/riodevday/blog/hello-world</link>
-        <guid isPermaLink="true">gdgrio.org/riodevday/riodevday/blog/hello-world</guid>
+        <link>gdgrio.org/riodevday/riodevday.github.io/blog/hello-world</link>
+        <guid isPermaLink="true">gdgrio.org/riodevday/riodevday.github.io/blog/hello-world</guid>
       </item>
     
   </channel>

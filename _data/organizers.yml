@@ -1,8 +1,27 @@
+# -
+  # group: "Voluntários"
+  # elements:
+  #   - {name: "Paola Katherine", description: "Paola Katherine", link: "http://www.about.me/pkcpweb", imageUrl: "paola.jpg"}
+  #   - {name: "Raysa Dutra", description: "Raysa Dutra", link: "http://contactup.io/_u1276/", imageUrl: "raysadutra.jpg"}
+  #   # - {name: "Gabriel Lima", description: "Gabriel Lima", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+  #   - {name: "Lucas Trindade", description: "Lucas Trindade", link: "https://twitter.com/lucasktrindade", imageUrl: "lucas_trindade.jpg"}
+  #   - {name: "Raffael Tancman", description: "Raffael Tancman", link: "http://www.rtancman.com.br/", imageUrl: "raffael.jpg"}    # - {name: "Jonatas Emidio", description: "Jonatas Emidio", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+  #   - {name: "Fredd Gomes", description: "Fredd Gomes", link: "https://plus.google.com/u/0/111570786775645702955", imageUrl: "freddgomes.jpg"}     # - {name: "Raissa", description: "Raissa", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+
+    # - {name: "Eduardo Stalinho", description: "Eduardo Stalinho", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: "Igor Felipe", description: "Igor Felipe", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Alberto Leite", description: "Alberto Leite", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Felipe Vidal", description: "Felipe Vidal", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+    # - {name: " Tiago Potência", description: "Tiago Potência", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
+
 -
-  group: "Organizadores"
+  group: "Comunidades"
   elements:
-    - {name: "Universidade Unigranrio", description: "Universidade Unigranrio", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
--
-  group: "Co-organizadores"
-  elements:
-    - {name: "GDG Caxias", description: "GDG Caxias", link: "http://kyiv.gdg.org.ua", imageUrl: "gdgcaxias.png"}
+    - {name: "GDG Rio", description: "GDG Rio", link: "http://fb.com/GDGRio", imageUrl: "logo-gdg-rio.png"}
+    - {name: "GDG Duque de Caxias", description: "GDG Duque de Caxias", link: "https://www.facebook.com/gdgduquedecaxias", imageUrl: "gdgcaxias.jpg"}
+    - {name: "Python Rio", description: "Python Rio", link: "http://fb.com/PythONRio", imageUrl: "logo-pythonrio.png"}
+    - {name: "Ruby on Rio", description: "Ruby on Rio", link: "http://kyiv.gdg.org.ua", imageUrl: "logo-ruby-on-rio.png"}
+    - {name: "Woman Techmakers Rio", description: "Woman Techmakers Rio", link: "http://fb.com/WomanTechmakersRio", imageUrl: "logo-wtm.png"}
+    - {name: "Pyladies  Rio", description: "Pyladies Rio", link: "http://rio.pyladies.com", imageUrl: "logo-pyladies.png"}
+    - {name: "PHPRio", description: "PHPRio", link: "http://www.phprio.org/", imageUrl: "phprio.png"}
+    - {name: "Android Dev BR", description: "Android Dev BR", link: "https://medium.com/android-dev-br", imageUrl: "logo-androiddevbr.png"}
