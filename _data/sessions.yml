@@ -1,9 +1,9 @@
-#-
-#  id: 001
-#  title: "Parada pra Lanche"
-#  place: "Praça de Alimentação"
-#  service: true
-#  description: "Momento legal para trocar ideia com alguns participantes e palestrantes."
+-
+  id: 005
+  title: "Abertura"
+  place: ""
+  service: true
+  description: ""
 
 -
   id: 001
