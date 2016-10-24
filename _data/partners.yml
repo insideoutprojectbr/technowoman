@@ -2,9 +2,10 @@
   group: "Apoios"
   elements:
     - {name: "Estácio de Sá", description: "Estácio de Sá", link: "http://www.estacio.br/", imageUrl: "logo-estacio.png"}
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "logo-jetbrains.png"}
+    - {name: "Editora Novatec", description: "Editora Novatec", link: "https://novatec.com.br/", imageUrl: "novatec.png"}
+
 -
   group: "Patrocinadores"
   elements:
     # - {name: "GDG Rio", description: "GDG Rio", link: "http://kyiv.gdg.org.ua", imageUrl: "gdgcaxias.png"}
-
-
