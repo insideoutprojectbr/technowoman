@@ -1,18 +1,67 @@
-# -
-#   id: 1
-#   name: "Gabriel"
-#   surname: "Lima"
-#   company: "GDG Caxias"
-#   title: "Organizador GDG Caxias, Desenvolvedor Unigranrio"
-#   bio: "Gabriel é organizer e fundador do GDG Duque de Caxias. Gabriel também é um dos idealizadores e criadores do AppUnigranrio, aplicativo que auxilia alunos de graduação e pós-graduação nas tarefas e acompanhamento da vida acadêmica. Gabriel faz parte de alguns projetos open-source e está sempre ligado em tecnologias novas. Fanboy de Android, Java, AngularJS e Ionic."
-#   thumbnailUrl: GabrielLima.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-#     - {name: "twitter", link: "https://twitter.com/gabrielclima"}
-#     - {name: "github", link: "https://github.com/gabrielclima"}
+ -
+   id: 1
+   name: "Pedro"
+   surname: "Marins"
+   company: "Ministério Público"
+   title: ""
+   bio: ""
+   thumbnailUrl: pedromarins.png
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     #- {name: "twitter", link: "https://twitter.com/gabrielclima"}
+     - {name: "github", link: "https://github.com/pedromarins"}
+
+ -
+   id: 2
+   name: "Afonso"
+   surname: "Pacifer"
+   company: ""
+   title: ""
+   bio: ""
+   thumbnailUrl: afonsopacifer.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
+     - {name: "github", link: "https://github.com/afonsopacifer"}
+
+ -
+   id: 3
+   name: "Diego"
+   surname: "Cacau"
+   company: "Laboratório de Metrologia Dimensional e Computacional"
+   title: "Pesquisador no Laboratório de Metrologia Dimensional e Computacional (LMDC - UFF), estudo ciência da computação na UFF e freelancer nas horas vagas."
+   bio: ""
+   thumbnailUrl: diegocacau.png
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
+     - {name: "github", link: "https://github.com/diegocacau"}
+
+ -
+   id: 4
+   name: "Raphael"
+   surname: "Klaus"
+   company: "Lab21k"
+   title: "Full Stack Engineer at lab21k."
+   bio: ""
+   thumbnailUrl: notfound.png
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
+     - {name: "github", link: "https://github.com/raphaklaus"}
+
 # -
 #   id: 2
 #   name: "Lucas"

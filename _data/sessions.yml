@@ -1,16 +1,59 @@
+#-
+#  id: 001
+#  title: "Parada pra Lanche"
+#  place: "Praça de Alimentação"
+#  service: true
+#  description: "Momento legal para trocar ideia com alguns participantes e palestrantes."
+
 -
-  id: 307
-  title: "Parada pra Lanche"
-  place: "Praça de Alimentação"
-  service: true
-  description: "Momento legal para trocar ideia com alguns participantes e palestrantes."
--
-  id: 002
-  title: "Criando Aplicações Híbridas"
-  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
-  subtype: apresentação
+  id: 001
+  title: "Fazendo dinheiro de pijama"
+  description: "Na palestra vou compartilhar um passo a passo das coisas mais importantes para ter uma vida de freelancer bem sucedida. Usando isso para ter mais liberdade, autonomia e controle sobre sua vida. Para inclusive, poder trabalhar de casa de pijamas. Ou até de qualquer lugar do mundo."
+  subtype: Talk
   speakers: [1]
   language: pt-Br
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 002
+  title: "Desmistificando o CSS4 (ou não)"
+  description: "Pretendo contar um pouco de como funcionam as especificações da W3C e seus Working Groups, explicando o porque do CSS4 não fazer sentido e aproveitando para abordar alguns nos novos assuntos do mundo CSS que prometem fazer o cabeça dos desenvolvedores em um futuro próximo."
+  subtype: Talk
+  speakers: [2]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 003
+  title: "Web Scraping - Extraindo dados de sites usando Scrapy"
+  description: "Um overview do framework Scrapy, usado para extração de dados de sites. Como criar um Spiders de uma forma fácil e rápida, com exemplos reais."
+  subtype: Talk
+  speakers: [3]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 004
+  title: "Criação de Bots de Telegram com NodeJS"
+  description: "Explicação do conceitos de Bots, como o Telegram interage com isso, hands-on em criação de bots usando diversas API's como sintetização de voz da IBM e outras. Tudo isso usando NodeJS."
+  subtype: Talk
+  speakers: [4]
+  language: pt-Br
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+#-
+#  id: 003
+#  title: "Fazendo Dinheiro de Pijama"
+#  description: "Vou falar um pouco sobre aplicações híbridas. <br>Explicar um pouco como são implementadas, como funcionam. <br>Irei usar minha experiência com o App Unigranrio para respaudar toda a apresentação.<br> A ideia é mostrar como fazer um aplicativo híbrido por completo, desde a criação de rotas, views, design e interação com algum webservice."
+#  subtype: apresentação
+#  speakers: [1]
+#  language: pt-Br
+#  complexity: "iniciante"
