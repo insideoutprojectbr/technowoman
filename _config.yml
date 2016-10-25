@@ -79,9 +79,9 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "7", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
- - {count: "14", specialCharacter: "+", info: "palestrantes", detail: "sinistros"}
+ - {count: "300", specialCharacter: "+", info: "participantes", detail: ""}
+ - {count: "6", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
+ - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "sinistros"}
  - {count: "1", specialCharacter: "", info: "dia", detail: "de puro aprendizado"}
 
 # Latest News Block

@@ -11,7 +11,6 @@
   description: "Na palestra vou compartilhar um passo a passo das coisas mais importantes para ter uma vida de freelancer bem sucedida. Usando isso para ter mais liberdade, autonomia e controle sobre sua vida. Para inclusive, poder trabalhar de casa de pijamas. Ou até de qualquer lugar do mundo."
   subtype: Talk
   speakers: [1]
-  language: pt-Br
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -22,7 +21,6 @@
   description: "Pretendo contar um pouco de como funcionam as especificações da W3C e seus Working Groups, explicando o porque do CSS4 não fazer sentido e aproveitando para abordar alguns nos novos assuntos do mundo CSS que prometem fazer o cabeça dos desenvolvedores em um futuro próximo."
   subtype: Talk
   speakers: [2]
-  language: pt-Br
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -33,7 +31,6 @@
   description: "Um overview do framework Scrapy, usado para extração de dados de sites. Como criar um Spiders de uma forma fácil e rápida, com exemplos reais."
   subtype: Talk
   speakers: [3]
-  language: pt-Br
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -44,10 +41,184 @@
   description: "Explicação do conceitos de Bots, como o Telegram interage com isso, hands-on em criação de bots usando diversas API's como sintetização de voz da IBM e outras. Tudo isso usando NodeJS."
   subtype: Talk
   speakers: [4]
-  language: pt-Br
   complexity: "iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 006
+  title: "Enquanto houver café, haverá esperança."
+  description: "Sobre a minha trajetória em TI e como não desistir e continuar tentando."
+  subtype: Lighting talk
+  speakers: [5]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 007
+  title: "Vázio"
+  description: ""
+  subtype: Lighting talk
+  speakers: [6]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 008
+  title: "Smartlook -  A maravilhosa ferramenta para monitorar o usuário do seu site"
+  description: "Conhecer a ferramenta gratuita que grava que o visitante do site faz enquanto navega no site.  Mostrar o analítico que ele fornece pra melhorar a usabilidade e experiencia do usuário final."
+  subtype: Lighting talk
+  speakers: [7]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 009
+  title: "Iniciando no Android"
+  description: "O mercado Android está em alta, as IDEs estão bem maduras, mas há muita informação por aí, até mesmo desatualizada. Isso pode ser bem confuso para os iniciantes. Depois de responder à pergunta “como eu começo no Android?” várias vezes, essa palestra vem trazer a resposta de forma relevante para o contexto atual."
+  subtype: Lighting talk
+  speakers: [8]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 010
+  title: "Padrões e anti padrões de estabilidade"
+  description: "A grande maioria dos desenvolvedores tem a preocupação em implementar todas as funcionalidades dentro das especificações que o cliente fez.  Também buscamos entregar software sem bugs e fácil de dar manutenção (evoluir). Para isso nos utilizamos de recursos como testes automatizados,  técnicas de TDD e BDD, etc. A questão é que sistemas não só precisam entregar o que se pede mas também se preocupar em ser resilientes a falhas,  quebras e erro. A idéia dessa palestra é mostrar alguns padrões de projeto que nos levam a ter sistemas mais prontos para produção; situações que devem ser evitadas e casos de estudos para aprendermos com os erros do autor."
+  subtype: Lighting talk
+  speakers: [9]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 011
+  title: "Apigility Zend Framework - Construindo APIs sofisticadas"
+  description: "Como o próprio site do Apigility diz: A maneira mais fácil do mundo para criar APIs de alta qualidade. Apigility é um framework em PHP criado pela Zend para criação de API's. Vamos falar dos principais pontos dele, vamos criar API e mostrar o que ele oferece como por exemplo: versionamento, normalização, validação, autenticação(HTTP Basic, HTTP Digest e OAuth2) e documentação(HTML, Swagger) de APIs. Será falado e mostrado o que ele pode fazer..."
+  subtype: Lighting talk
+  speakers: [10]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 012
+  title: "Aprendendo a construir jogos com o Construct 2"
+  description: "Falaremos sobre a ferramenta Construct 2 que é voltada para o desenvolvimento de jogos. Também mostraremos pelos slides, como é fácil criar um jogo de plataforma, por exemplo. A ferramenta possui uma versão grátis, e não é necessário codificar para criar alguns estilos de jogo. Ou seja, simples e bem básica para os gamers que possuem interesse na parte de criação."
+  subtype: Lighting talk
+  speakers: [11, 12]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 013
+  title: "Exploring Critical Rendering Path"
+  description: "Palestra sobre análise de etapas entre a recepção do HTML, CSS e JavaScript e o processamento necessário para entrega do domContent. Focando em melhorias relacionadas a prioridade e ordem de carregamento de resources críticos."
+  subtype: Lighting talk
+  speakers: [13]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 014
+  title: "Almoço"
+  place: ""
+  service: true
+  description: ""
+
+-
+  id: 015
+  title: "A Trilha Digital, o código da vida."
+  description: "Idealizador do programa 90 Coach e co-fundador da startup A Trilha Digital, atuante em lançamentos online e Coach Digital. Vou ministrar o Workshop: \"O Código da Vida\", neste trabalharemos para Elevar o performance dos indivíduos na hora de Desenvolver, como? Ensinando e praticando técnicas de produtividade, Identificação de  Prioridades e Hábitos, Programação Ágil, Desenvolvimento com Foco, Auto Gerenciamento e Visão.Muita coisa não é ? então, em só 45 a 60 minutos conseguiremos colocar todo isso numa forma bem simples, pratica e com um resultado imediato."
+  subtype: Lighting talk
+  speakers: [14]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 016
+  title: "Hackeando Dados Públicos com Python"
+  description: "Tutorial, para iniciantes em programação :-) Usando Python 3, sem nenhuma biblioteca externa, iremos responder as perguntas: 1) Quanto o Brasil gastou na Copa do Mundo 2) Quantas escolas existem, em funcionamento, sem água, luz e esgoto. Bônus: acesso aos editoriais do New York Times, dados da campanha eleitoral americana 2016. Este tutorial é interessante se você vem de outra linguagem e quer ter o primeiro contato com Python. Eu dei este workshop no Curso Abril de Jornalismo e ano passado no Congresso da Abraji (Congresso Internacional de Jornalismo Investigativo). Se você quiser saber um pouco mais sobre mim eu dei esta entrevista recente no jornal O Globo http://oglobo.globo.com/sociedade/conte-algo-que-nao-sei/fernando-masanori-cientista-da-computacao-ou-voce-programa-ou-programado-19173468#ixzz473F5swxd e estas são as minhas redes sociais https://about.me/fmasanori."
+  subtype: Lighting talk
+  speakers: [15]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 017
+  title: "APP Inventor - Eu escolho você!"
+  description: "Pensei em realizar uma oficina prática de desenvolvimento de aplicativos móveis utilizando o App Inventor, mais focado para pessoas que estão iniciando no mundo de programação."
+  subtype: Lighting talk
+  speakers: [16]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 018
+  title: "Desenvolvendo Apps para AppleWatch"
+  description: ""
+  subtype: Lighting talk
+  speakers: [17]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 019
+  title: "Sem chefe: tornando-se independente como mentor online no Codementor"
+  description: "Como eu me tornei um mentor online na plataforma Codementor, as dificuldades pelas quais passei na transição para trabalhador autônomo, as lições que aprendi, e dicas/passos para quem quiser também se tornar um mentor online."
+  subtype: Lighting talk
+  speakers: [18]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 020
+  title: "Robótica no cinema - Timelapse"
+  description: "Mostrar uso da robótica no cinema, utilizando um simples kit iniciante de Arduino, faremos um suporte para celular se movimentar para realizar timelapses incríveis . E assim mostrar como a robótica está presente nos dias atuais nos cinemas."
+  subtype: Lighting talk
+  speakers: [19]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 021
+  title: "Javascript em 2016: Como sobreviver a essa sopa de letrinhas com Vue.js"
+  description: "Somo sobreviver a esse mar de soluções javascript usando o poder e simplicidade do Vue.js"
+  subtype: Lighting talk
+  speakers: [20]
+  complexity: "iniciante"
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 022
+  title: ""
+  description: ""
+  subtype:
+  speakers: []
+  complexity: ""
+  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 023
+  title: "Encerramento"
+  place: ""
+  service: true
+  description: ""
+
 
 #-
 #  id: 003

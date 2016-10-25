@@ -1,4 +1,4 @@
- -
+
    id: 1
    name: "Pedro"
    surname: "Marins"
@@ -62,18 +62,134 @@
      #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
      - {name: "github", link: "https://github.com/raphaklaus"}
 
-# -
-#   id: 2
-#   name: "Lucas"
-#   surname: "Trindade"
-#   company: "GDG Caxias"
-#   title: "Organizador GDG Caxias, Desenvolvedor NEaD Unigranrio"
-#   bio: "Lucas Trindade (vulgo Luquinhas Sensação) é um dos organizadores do GDG Duque de Caxias. Luquinhas também é desenvolvedor na Unigranrio, no Núcleo  de Educação a Distância, monta cursos, os coloca on-line. Lucas tem grande experiência com front-end mas também entende de back-end. Luquinhas é fanboy de Python - Django, Laravel, AngularJS e apoia Dilma."
-#   thumbnailUrl: LucasTrindade.jpg
-#   rockstar: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-#   social:
-#     - {name: "google-plus", link: "https://plus.google.com/+LucasKTrindade/"}
-#     - {name: "twitter", link: "https://twitter.com/lucasktrindade"}
-#     - {name: "github", link: "https://github.com/lucasktrindade"}
+ -
+   id: 5
+   name: "Cris"
+   surname: "Motinha"
+   company: "Locker"
+   title: "Dev Jr na empresa Locker"
+   bio: ""
+   thumbnailUrl: crismontinha.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://twitter.com/crismotinha"}
+     - {name: "github", link: "https://github.com/crismotinha"}
+
+ -
+   id: 6
+   name: ""
+   surname: ""
+   company: ""
+   title: ""
+   bio: ""
+   thumbnailUrl: aqqcrismontinha.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     #- {name: "twitter", link: "https://twitter.com/crismotinha"}
+     #- {name: "github", link: "https://github.com/crismotinha"}
+
+ -
+   id: 7
+   name: "Luis"
+   surname: "Mangia"
+   company: ""
+   title: "Front End, frequentador de vários MeetUps como: FERMUG, Rio JS, criativos da Baixada"
+   bio: ""
+   thumbnailUrl: mangia.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://twitter.com/lfmangia"}
+     - {name: "github", link: "https://github.com/luisfernandomangia"}
+
+ -
+   id: 8
+   name: "Douglas"
+   surname: "Drumond"
+   company: "Mokriya (Cupertino, CA)"
+   title: "Senior Android developer na Mokriya (Cupertino, CA) e fundador e organizador do GDG Campinas. Antigo mantenedor do MacVim. Fotógrafo hobbyista."
+   bio: ""
+   thumbnailUrl: DouglasDrumond.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://twitter.com/douglasdrumond"}
+     - {name: "github", link: "https://github.com/douglasdrumond"}
+
+ -
+   id: 9
+   name: "Andre"
+   surname: "Fonseca"
+   company: "Bemobi / Opera"
+   title: "Sr System Engineer and Backend Specialist at Bemobi / Opera"
+   bio: ""
+   thumbnailUrl: AndreFonseca.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://twitter.com/aoqfonseca"}
+     - {name: "github", link: "https://github.com/aoqfonseca"}
+
+ -
+   id: 10
+   name: "Carlos"
+   surname: "Henrique"
+   company: "Som Livre (Globo)"
+   title: "Full Stack web developer na Som Livre(Globo) e Palestrante na comunidade PHPRio."
+   bio: ""
+   thumbnailUrl: DouglasDrumond.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
+     - {name: "twitter", link: "https://twitter.com/carloshperc"}
+     - {name: "github", link: "https://github.com/carloshpdoc"}
+
+ -
+   id: 11
+   name: "Diogo"
+   surname: "Padilha"
+   company: "Universidade Severino Sombra"
+   title: "Estudante de Engenharia de Computação - Universidade Severino Sombra"
+   thumbnailUrl: 404.jpg
+   rockstar: true
+
+ -
+   id: 12
+   name: "Matheus"
+   surname: "Rivello"
+   company: "Universidade Severino Sombra"
+   title: "Estudante de Engenharia de Computação - Universidade Severino Sombra"
+   thumbnailUrl: MatheusRivello.jpg
+   rockstar: true
+
+ -
+   id: 13
+   name: "Raphael"
+   surname: "Amorim"
+   company: "Globo.com"
+   title: "Desenvolvedor Globo.com"
+   thumbnailUrl: raphaelamorim.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+LucasKTrindade/"}
+     #- {name: "twitter", link: "https://twitter.com/lucasktrindade"}
+     - {name: "github", link: "https://github.com/raphamorim"}
