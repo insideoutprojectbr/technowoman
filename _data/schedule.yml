@@ -5,7 +5,7 @@
      - {title: "Auditório", color: "#90be4e"}
      - {title: "Sala 1", color: "#03a9f4"}
      - {title: "Sala 2", color: "#e91e63"}
-     - {title: "Sala 3", color: "#03a9f4"}
+     - {title: "Sala 3", color: "#FFD700"}
    timeslots:
       - {
          startTime: "10:00",
