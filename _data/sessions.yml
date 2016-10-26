@@ -57,11 +57,11 @@
 
 -
   id: 007
-  title: "Vázio"
+  title: ""
   description: ""
-  subtype: Lighting talk
-  speakers: [6]
-  complexity: "iniciante"
+  subtype: 
+  speakers: []
+  complexity: ""
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
