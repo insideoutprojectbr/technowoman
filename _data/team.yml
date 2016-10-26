@@ -2,83 +2,83 @@
   id: 0
   name: "Paola"
   surname: "Katherine"
-  title: "Sponsors and Speakers Manager"
+  title: "Organizer"
   thumbnailUrl: paola.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    #- {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 1
   name: "Gabriel"
   surname: "Lima"
-  title: "Sponsors and Speakers Manager"
+  title: "Organizer"
   thumbnailUrl: GabrielLima.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
+    - {name: "twitter", link: "https://twitter.com/gabrielcslima"}
+    - {name: "github", link: "https://github.com/gabrielclima'"}
+
 -
   id: 2
   name: "Lucas"
   surname: "Trindade"
-  title: "Sponsors and Speakers Manager"
+  title: "Organizer"
   thumbnailUrl: lucas_trindade.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    #- {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 3
   name: "Raysa"
   surname: "Dutra"
-  title: "Sponsors and Speakers Manager"
+  title: "Organizer"
   thumbnailUrl: raysadutra.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    #- {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 4
   name: "Raffael"
   surname: "Tancman"
-  title: "Sponsors and Speakers Manager"
+  title: "Organizer"
   thumbnailUrl: raffael.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    #- {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
 -
   id: 5
   name: "Fredd"
   surname: "Gomes"
-  title: "Sponsors and Speakers Manager"
+  title: "Organizer"
   thumbnailUrl: freddgomes.jpg
   team: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
+    #- {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    #- {name: "github", link: "https://github.com/zasadnyy"}
+    #- {name: "site", link: "http://zasadnyy.com/"}
