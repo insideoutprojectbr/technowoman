@@ -204,12 +204,12 @@
 
 -
   id: 022
-  title: ""
+  title: "A fantástica fábrica de aplicações com RubyOnRails"
   description: ""
   subtype:
-  speakers: []
-  complexity: ""
-  # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  speakers: [21]
+  complexity: "iniciante"
+  presentation: "http://pt.slideshare.net/ElisioFilho/a-fantastica-fabrica-de-aplicacoes-com-ruby-onrails"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -

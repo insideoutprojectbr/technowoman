@@ -298,3 +298,18 @@
      #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
      #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
      - {name: "github", link: "https://github.com/vinicius73"}
+
+ -
+   id: 21
+   name: "Elisio"
+   surname: "Filho"
+   company: ""
+   title: ""
+   thumbnailUrl: Elisio.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
+     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
+     #- {name: "github", link: "https://github.com/vinicius73"}
