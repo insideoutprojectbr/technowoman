@@ -273,9 +273,9 @@
    id: 19
    name: "Lucas"
    surname: "Soares"
-   company: ""
-   title: "Estudante programação no NAVE."
-   thumbnailUrl: lucassoaress.jpg
+   company: "NAVE LABS"
+   title: "Estudante de Programação no NAVE, membro do grupo de pesquisa e disseminação de robótica – NAVE LABS, amante de programação e robótica, atuante no desenvolvimento de projetos com Arduino, softwares, jogos 2D, 3D e aplicativos, iniciante na área de Ethical Hacking. Em uma frase: \"Programar ensina a pensar\"."
+   thumbnailUrl: LucasSoares.jpg
    rockstar: true
    ribbon:
      #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
@@ -313,3 +313,33 @@
      #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
      #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
      #- {name: "github", link: "https://github.com/vinicius73"}
+     
+ -
+   id: 22
+   name: "Lucas"
+   surname: "Alves"
+   company: "NAVE LABS"
+   title: "Estudante de Programação, NAVE, membro do grupo de pesquisa e disseminação de robótica – NAVE LABS, entusiasta de robótica e amante de Game Design, atuante no desenvolvimento de jogos 2D, 3D e analógicos, sendo iniciante na atuação de Scrum Master, em uma frase: \"Jogos tem a capacidade de mudar o mundo!\"."
+   thumbnailUrl: LucasAlves.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
+     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
+     - {name: "github", link: "https://github.com/LucaAlvesNaveRio"}
+     
+  -
+   id: 23
+   name: "Patrick"
+   surname: "Scoralick"
+   company: "NAVE LABS"
+   title: "Estudante de Programação, NAVE, membro do grupo de pesquisa e disseminação de robótica – NAVE LABS, amante de robótica, entusiasta por jogos, em uma frase: \"Uma mente que se expande a uma nova ideia, jamais retorna ao seu tamanho original\"."
+   thumbnailUrl: Patrick.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
+     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
+     - {name: "github", link: "https://github.com/patrickscoralickcosta"}
