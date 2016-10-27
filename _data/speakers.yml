@@ -314,7 +314,7 @@
      #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
      #- {name: "github", link: "https://github.com/vinicius73"}
      
- -
+ - 
    id: 22
    name: "Lucas"
    surname: "Alves"
@@ -329,7 +329,7 @@
      #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
      - {name: "github", link: "https://github.com/LucaAlvesNaveRio"}
      
-  -
+ - 
    id: 23
    name: "Patrick"
    surname: "Scoralick"
