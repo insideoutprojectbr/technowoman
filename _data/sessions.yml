@@ -195,7 +195,7 @@
 -
   id: 021
   title: "Javascript em 2016: Como sobreviver a essa sopa de letrinhas com Vue.js"
-  description: "Somo sobreviver a esse mar de soluções javascript usando o poder e simplicidade do Vue.js"
+  description: "Como sobreviver a esse mar de soluções javascript usando o poder e simplicidade do Vue.js"
   subtype: Lighting talk
   speakers: [20]
   complexity: "iniciante"
