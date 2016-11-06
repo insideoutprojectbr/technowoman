@@ -57,11 +57,11 @@
 
 -
   id: 007
-  title: ""
-  description: ""
-  subtype: 
-  speakers: []
-  complexity: ""
+  title: "Ionic Framework 2"
+  description: "Nesta lighting talk veremos o que há de novo no Ionic Framework 2, essa poderosa ferramenta para criação de aplicações mobile para iOS, Android e Windows Phone(híbridas). Falaremos um pouco sobre os números da comunidade, sobre o que há de novo na versão 2, sobre o mercado de aplicativos híbridos e é claro everemos um exemplo na prática."
+  subtype: Lighting talk
+  speakers: [6]
+  complexity: "Iniciante"
   # presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 

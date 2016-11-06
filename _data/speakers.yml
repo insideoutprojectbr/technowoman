@@ -80,20 +80,19 @@
 
  -
    id: 6
-   name: ""
-   surname: ""
-   company: ""
+   name: "Jefferson "
+   surname: "Souza"
+   company: "Programador Master na Nasajon Sistemas"
    title: ""
    bio: ""
-   thumbnailUrl: aqqcrismontinha.jpg
+   thumbnailUrl: jeffersonsouza.jpg
    rockstar: true
    ribbon:
      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
    social:
      #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     #- {name: "twitter", link: "https://twitter.com/crismotinha"}
-     #- {name: "github", link: "https://github.com/crismotinha"}
-
+     - {name: "twitter", link: "http://twitter.com/jeffersonsouza"}
+     - {name: "github", link: "http://github.com/jeffersonsouza"}
  -
    id: 7
    name: "Luis"

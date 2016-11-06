@@ -1,7 +1,7 @@
 -
   id: 0
-  name: "Paola"
-  surname: "Katherine"
+  name: "Paola Katherine"
+  surname: "Pacheco"
   title: "Organizer"
   thumbnailUrl: paola.jpg
   team: true
@@ -9,9 +9,9 @@
     #- {abbr: "GDG", title: "Google Developer Group"}
   social:
     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    #- {name: "github", link: "https://github.com/zasadnyy"}
-    #- {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/pk_pacheco"}
+    - {name: "github", link: "https://github.com/PKpacheco"}
+    - {name: "site", link: "http://about.me/pkcpweb"}
 -
   id: 1
   name: "Gabriel"
