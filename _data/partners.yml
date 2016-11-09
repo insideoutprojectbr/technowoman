@@ -1,4 +1,9 @@
 -
+  group: "Patrocinadores"
+  elements:
+    - {name: "B2W", description: "", link: "https://www.b2wdigital.com/", imageUrl: "b2w.png"}
+
+-
   group: "Apoios"
   elements:
     - {name: "Estácio de Sá", description: "Estácio de Sá", link: "http://www.estacio.br/", imageUrl: "logo-estacio.png"}
@@ -6,7 +11,3 @@
     - {name: "Editora Novatec", description: "Editora Novatec", link: "https://novatec.com.br/", imageUrl: "novatec.png"}
     - {name: "Eventbrite", description: "Eventbrite ", link: "https://eventbrite.com.br/", imageUrl: "eventbrite.png"}
 
--
-  group: "Patrocinadores"
-  elements:
-    # - {name: "GDG Rio", description: "GDG Rio", link: "http://kyiv.gdg.org.ua", imageUrl: "gdgcaxias.png"}
