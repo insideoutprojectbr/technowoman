@@ -2,9 +2,9 @@
    id: 1
    name: "Pedro"
    surname: "Marins"
-   company: "Ministério Público"
+   company: "Caelum e Ministério Público"
    title: ""
-   bio: ""
+   bio: "Desenvolvedor front-end no Ministério Público do Estado do Rio de Janeiro; Instrutor da formação front-end na Caelum; Fanfarrão Lider na Sparkit."
    thumbnailUrl: pedromarins.png
    rockstar: true
    ribbon:
