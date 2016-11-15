@@ -1,6 +1,6 @@
 -
   id: 005
-  title: "Abertura"
+  title: "Abertura - Check-in e Recolhimento de lixo eletrônico"
   place: ""
   service: true
   description: ""
@@ -214,7 +214,7 @@
 
 -
   id: 023
-  title: "Encerramento"
+  title: "Encerramento - Patrocinadores e Sorteios de Brindes"
   place: ""
   service: true
   description: ""
