@@ -356,3 +356,17 @@
      #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
      #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
      # - {name: "github", link: "https://github.com/patrickscoralickcosta"}
+ - 
+   id: 25
+   name: "Júlio"
+   surname: "Vaz"
+   company: "Stone"
+   title: "Desenvolvedor que está mudando o cenário de pagamentos no Brasil com a Stone utilizando GO, Python e Javascript."
+   thumbnailUrl: JulioVaz.jpg
+   rockstar: true
+   ribbon:
+     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+   social:
+     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
+     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
+     # - {name: "github", link: "https://github.com/patrickscoralickcosta"}

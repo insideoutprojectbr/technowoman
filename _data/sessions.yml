@@ -223,6 +223,15 @@
 
 -
   id: 024
+  title: "GOing real"
+  description: "Esta Talk tem objetivo de mostrar para desenvolvedores o que é a linguagem GO e como ela pode ajudar a resolver problemas da vida real."
+  subtype: Lighting talk
+  speakers: [25]
+  complexity: "iniciante"
+  presentation: "#"
+
+-
+  id: 025
   title: "Encerramento - Patrocinadores e Sorteios de Brindes"
   place: ""
   service: true
