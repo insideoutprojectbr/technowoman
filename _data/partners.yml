@@ -2,6 +2,7 @@
   group: "Patrocinadores"
   elements:
     - {name: "B2W", description: "", link: "https://www.b2wdigital.com/", imageUrl: "b2w.png"}
+    - {name: "Stone Pagamentos", description: "", link: "https://www.stone.com.br/", imageUrl: "stonepagamentos.png"}
 
 -
   group: "Apoios"

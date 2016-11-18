@@ -64,10 +64,10 @@
   ribbon:
     #- {abbr: "GDG", title: "Google Developer Group"}
   social:
-    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    #- {name: "github", link: "https://github.com/zasadnyy"}
-    #- {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+RaffaelTancman"}
+    - {name: "twitter", link: "https://twitter.com/rtancman"}
+    - {name: "github", link: "https://github.com/rtancman"}
+    - {name: "site", link: "http://rtancman.com.br/"}
 -
   id: 5
   name: "Fredd"
