@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programação"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/communities/", text: "Comunidades"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:

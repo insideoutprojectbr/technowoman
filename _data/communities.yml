@@ -1,0 +1,110 @@
+-
+  id: 0
+  name: "Android Dev BR"
+  thumbnailUrl: logo-androiddevbr.png
+  social:
+    - {name: "github", link: "https://github.com/androiddevbr"}
+    - {name: "site", link: "https://www.meetup.com/pt-BR/android-meetup-rj/"}
+    - {name: "site", link: "https://medium.com/android-dev-br"}
+    - {name: "site", link: "http://slack.androiddevbr.org/"}
+-
+  id: 1
+  name: "Gophers RJ"
+  thumbnailUrl: logo-gophers-rio.png
+  social:
+    - {name: "site", link: "http://www.meetup.com/pt-BR/Gophers-Rio/"}
+-
+  id: 2
+  name: "GDG RJ"
+  thumbnailUrl: logo-gdg-rio.png
+  social:
+    - {name: "site", link: "https://developers.google.com/groups/chapter/104464728601797437216/"}
+    - {name: "site", link: "http://www.meetup.com/pt-BR/React-Rio-de-Janeiro"}
+    - {name: "facebook", link: "https://www.facebook.com/GDGRio/"}
+    - {name: "twitter", link: "https://twitter.com/gdgrio"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UCFsa2UYItksWXugDkmlDZtA"}
+-
+  id: 3
+  name: "GDG Duque de Caxias"
+  thumbnailUrl: gdgcaxias.jpg
+  social:
+    - {name: "site", link: "http://gdgduquedecaxias.org/"}
+    - {name: "site", link: "http://www.meetup.com/pt-BR/GDGDuquedeCaxias/"}
+    - {name: "site", link: "https://developers.google.com/groups/chapter/114684774037479279638/"}
+    - {name: "site", link: "https://gdgduquedecaxias.slack.com/"}
+    - {name: "site", link: "https://telegram.me/gdgduquedecaxias"}
+    - {name: "facebook", link: "https://www.facebook.com/gdgduquedecaxias/"}
+    - {name: "twitter", link: "https://twitter.com/gdgcaxias"}
+    - {name: "google-plus", link: "https://plus.google.com/communities/117328321114732521733"}
+-
+  id: 4
+  name: "GDG Petrópolis"
+  thumbnailUrl: gdgcaxias.jpg
+  social:
+    - {name: "site", link: "https://developers.google.com/groups/chapter/108049972583441330669/"}
+-
+  id: 5
+  name: "GDG Vassouras"
+  thumbnailUrl: gdgcaxias.jpg
+  social:
+    - {name: "site", link: "https://developers.google.com/groups/chapter/103394540206445613202/"}
+    - {name: "site", link: "http://www.meetup.com/pt-BR/GDG-Vassouras/"}
+    - {name: "facebook", link: "https://www.facebook.com/gdgvassouras/"}
+-
+  id: 6
+  name: "GDG Paulo de Frontin"
+  thumbnailUrl: gdgcaxias.jpg
+  social:
+    - {name: "site", link: "http://www.ifrj.edu.br/node/5469"}
+    - {name: "google-plus", link: "https://plus.google.com/106854837866027436065"}
+-
+  id: 7
+  name: "JS Rio"
+  thumbnailUrl: logo-js-rio.png
+  social:
+    - {name: "site", link: "https://telegram.me/JSRio"}
+-
+  id: 8
+  name: "PHP Rio"
+  thumbnailUrl: phprio.png
+  social:
+    - {name: "site", link: "http://phprio.org/"}
+    - {name: "site", link: "http://www.meetup.com/pt-BR/PHP-Rio/"}
+    - {name: "site", link: "https://telegram.me/phprio"}
+-
+  id: 9
+  name: "PythonRio"
+  thumbnailUrl: logo-pythonrio.png
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/pythonrio"}
+    - {name: "twitter", link: "https://www.twitter.com/pythonrio"}
+    - {name: "youtube", link: "https://www.youtube.com/channel/UCGl4xDZYUYGg4_aMah32yjQ"}
+    - {name: "site", link: "http://pythonrio.python.org.br/"}
+    - {name: "site", link: "https://br.groups.yahoo.com/neo/groups/pythonrio/info"}
+    - {name: "site", link: "https://telegram.me/PythonRio"}
+-
+  id: 10
+  name: "PyLadies"
+  thumbnailUrl: logo-pyladies.png
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/PyLadiesBrazil"}
+    - {name: "site", link: "http://brasil.pyladies.com/"}
+    - {name: "site", link: "http://www.pyladies.com/"}
+-
+  id: 11
+  name: "Woman Techmakers"
+  thumbnailUrl: logo-wtm.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/womentechmakers"}
+    - {name: "site", link: "https://www.womentechmakers.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/communities/100202454944694552166"}
+    - {name: "youtube", link: "https://www.youtube.com/user/womentechmakers"}
+-
+  id: 12
+  name: "Ruby On Rio"
+  thumbnailUrl: logo-ruby-on-rio.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/rubyonrio"}
+    - {name: "site", link: "http://rubyonrio.com/"}
+    - {name: "github", link: "https://github.com/rubyonrio"}
+    - {name: "google-plus", link: "https://groups.google.com/forum/#!forum/rubyonrio"}
