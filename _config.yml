@@ -10,11 +10,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Rio Dev Day"
-email: "rio.gdg@gmail.com"
+title: "TechnoWoman"
+email: "contato@insideoutproject.com.br"
 description: "Evento para juntar as comunidades de desenvolvimento do Rio."
-baseurl: "/riodevday.github.io"
-url: "gdgrio.org/riodevday"
+baseurl: "/technowoman"
+url: "insideoutproject.xyz/technowoman"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -26,7 +26,7 @@ organizerAlternateName: "Seres Humanos que curtem tecnologia"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "jonatasemidio@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://riodevday.github.io/"
+organizerLink: "http://insideoutproject.xyz/technowoman"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, rio"
@@ -61,17 +61,17 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "rio-walp.png"
-logoUnigranrio: "riodevday-logo.png"
-heroTitle: "Rio Dev Day - <typeout>"
-eventDate: "19 de novembro de 2016"
-typeoutTextValues: '"", "Build Better Together", "GDG Rio", "Python Rio", "Ruby on Rio", "Pyladies Rio", "Woman Techmakers Rio"'
+logoUnigranrio: "technowoman-logo.png"
+heroTitle: "TechnoWoman - <typeout>"
+eventDate: "11 de maio de 2017"
+typeoutTextValues: '"InsideOut Project", "Pyladies Rio", "Woman Techmakers Rio", "Django Girls", "Python Rio", "Ruby on Rio"'
 typeoutFallback: "Season"
 heroButtons:
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "Sobre o Rio DevDay"
+aboutTitle: "Sobre o TechnoWoman"
 aboutBlock:
  - {title: "Palestras", image: "bigdata.jpg", text: "Palestras sobre linguagens, frameworks e muito mais." }
  - {title: "Lightning Talks", image: "iot.png", text: "Lightning Talks, palestras mais rápidas sobre desenvolvimento." }
@@ -122,14 +122,14 @@ venueFeatures: ["Bom ambiente para palestras", "Boa acústica, climatização", 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "e aí?"
-twitterHashTag: "riodevday"
+twitterHashTag: "technowoman"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organização"
 partnersTitle: "Parceiros"
 
-partnersC4sponsorsButton: "Seja um patrocinador, entre em contato pelo email rio.gdg@gmail.com"
+partnersC4sponsorsButton: "Seja um patrocinador, entre em contato pelo email contato@insideoutproject.com.br"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -195,7 +195,7 @@ footerBlocks:
   title: "Contatos"
   links:
 
-   - {link: "mailto:rio.gdg@gmail.com", text: "rio.gdg@gmail.com"}
+   - {link: "mailto:contato@insideoutproject.com.br", text: "contato@insideoutproject.com.br"}
 
 # Blog
 blogTitle: "Latest news"
