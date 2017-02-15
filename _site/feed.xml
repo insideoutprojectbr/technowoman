@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rio Dev Day</title>
+    <title>TechnoWoman</title>
     <description>Evento para juntar as comunidades de desenvolvimento do Rio.</description>
-    <link>gdgrio.org/riodevday/riodevday.github.io/</link>
-    <atom:link href="gdgrio.org/riodevday/riodevday.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>insideoutproject.xyz/technowoman/technowoman/</link>
+    <atom:link href="insideoutproject.xyz/technowoman/technowoman/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Call for Papers</title>
         <description>&lt;p&gt;Se você tem interesse em demonstrar suas habilidades , se inscreva no nosso Call4Papers.&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Jul 2014 06:00:00 -0300</pubDate>
-        <link>gdgrio.org/riodevday/riodevday.github.io/blog/call-for-papers</link>
-        <guid isPermaLink="true">gdgrio.org/riodevday/riodevday.github.io/blog/call-for-papers</guid>
+        <link>insideoutproject.xyz/technowoman/technowoman/blog/call-for-papers</link>
+        <guid isPermaLink="true">insideoutproject.xyz/technowoman/technowoman/blog/call-for-papers</guid>
       </item>
     
       <item>
@@ -21,8 +21,8 @@
 
 </description>
         <pubDate>Mon, 21 Jul 2014 05:00:00 -0300</pubDate>
-        <link>gdgrio.org/riodevday/riodevday.github.io/blog/hello-world</link>
-        <guid isPermaLink="true">gdgrio.org/riodevday/riodevday.github.io/blog/hello-world</guid>
+        <link>insideoutproject.xyz/technowoman/technowoman/blog/hello-world</link>
+        <guid isPermaLink="true">insideoutproject.xyz/technowoman/technowoman/blog/hello-world</guid>
       </item>
     
   </channel>
