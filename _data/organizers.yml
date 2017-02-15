@@ -14,14 +14,14 @@
     # - {name: " Felipe Vidal", description: "Felipe Vidal", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
     # - {name: " Tiago Potência", description: "Tiago Potência", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}
 
--
-  group: "Comunidades"
-  elements:
-    - {name: "GDG Rio", description: "GDG Rio", link: "http://fb.com/GDGRio", imageUrl: "logo-gdg-rio.png"}
-    - {name: "GDG Duque de Caxias", description: "GDG Duque de Caxias", link: "https://www.facebook.com/gdgduquedecaxias", imageUrl: "gdgcaxias.jpg"}
-    - {name: "Python Rio", description: "Python Rio", link: "http://fb.com/PythONRio", imageUrl: "logo-pythonrio.png"}
-    - {name: "Ruby on Rio", description: "Ruby on Rio", link: "http://kyiv.gdg.org.ua", imageUrl: "logo-ruby-on-rio.png"}
-    - {name: "Woman Techmakers Rio", description: "Woman Techmakers Rio", link: "http://fb.com/WomanTechmakersRio", imageUrl: "logo-wtm.png"}
-    - {name: "Pyladies  Rio", description: "Pyladies Rio", link: "http://rio.pyladies.com", imageUrl: "logo-pyladies.png"}
-    - {name: "PHPRio", description: "PHPRio", link: "http://www.phprio.org/", imageUrl: "phprio.png"}
-    - {name: "Android Dev BR", description: "Android Dev BR", link: "https://medium.com/android-dev-br", imageUrl: "logo-androiddevbr.png"}
+# -
+#   group: "Comunidades"
+#   elements:
+#     - {name: "GDG Rio", description: "GDG Rio", link: "http://fb.com/GDGRio", imageUrl: "logo-gdg-rio.png"}
+#     - {name: "GDG Duque de Caxias", description: "GDG Duque de Caxias", link: "https://www.facebook.com/gdgduquedecaxias", imageUrl: "gdgcaxias.jpg"}
+#     - {name: "Python Rio", description: "Python Rio", link: "http://fb.com/PythONRio", imageUrl: "logo-pythonrio.png"}
+#     - {name: "Ruby on Rio", description: "Ruby on Rio", link: "http://kyiv.gdg.org.ua", imageUrl: "logo-ruby-on-rio.png"}
+#     - {name: "Woman Techmakers Rio", description: "Woman Techmakers Rio", link: "http://fb.com/WomanTechmakersRio", imageUrl: "logo-wtm.png"}
+#     - {name: "Pyladies  Rio", description: "Pyladies Rio", link: "http://rio.pyladies.com", imageUrl: "logo-pyladies.png"}
+#     - {name: "PHPRio", description: "PHPRio", link: "http://www.phprio.org/", imageUrl: "phprio.png"}
+#     - {name: "Android Dev BR", description: "Android Dev BR", link: "https://medium.com/android-dev-br", imageUrl: "logo-androiddevbr.png"}

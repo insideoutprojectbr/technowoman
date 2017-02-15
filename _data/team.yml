@@ -1,84 +1,84 @@
--
-  id: 0
-  name: "Paola Katherine"
-  surname: "Pacheco"
-  title: "Organizer"
-  thumbnailUrl: paola.jpg
-  team: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/pk_pacheco"}
-    - {name: "github", link: "https://github.com/PKpacheco"}
-    - {name: "site", link: "http://about.me/pkcpweb"}
--
-  id: 1
-  name: "Gabriel"
-  surname: "Lima"
-  title: "Organizer"
-  thumbnailUrl: GabrielLima.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
-    - {name: "twitter", link: "https://twitter.com/gabrielcslima"}
-    - {name: "github", link: "https://github.com/gabrielclima'"}
+# -
+#   id: 0
+#   name: "Paola Katherine"
+#   surname: "Pacheco"
+#   title: "Organizer"
+#   thumbnailUrl: paola.jpg
+#   team: true
+#   ribbon:
+#     #- {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#     - {name: "twitter", link: "https://twitter.com/pk_pacheco"}
+#     - {name: "github", link: "https://github.com/PKpacheco"}
+#     - {name: "site", link: "http://about.me/pkcpweb"}
+# -
+#   id: 1
+#   name: "Gabriel"
+#   surname: "Lima"
+#   title: "Organizer"
+#   thumbnailUrl: GabrielLima.jpg
+#   team: true
+#   ribbon:
+#     - {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
+#     - {name: "twitter", link: "https://twitter.com/gabrielcslima"}
+#     - {name: "github", link: "https://github.com/gabrielclima'"}
 
--
-  id: 2
-  name: "Lucas"
-  surname: "Trindade"
-  title: "Organizer"
-  thumbnailUrl: lucas_trindade.jpg
-  team: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    #- {name: "github", link: "https://github.com/zasadnyy"}
-    #- {name: "site", link: "http://zasadnyy.com/"}
--
-  id: 3
-  name: "Raysa"
-  surname: "Dutra"
-  title: "Organizer"
-  thumbnailUrl: raysadutra.jpg
-  team: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    #- {name: "github", link: "https://github.com/zasadnyy"}
-    #- {name: "site", link: "http://zasadnyy.com/"}
--
-  id: 4
-  name: "Raffael"
-  surname: "Tancman"
-  title: "Organizer"
-  thumbnailUrl: raffael.jpg
-  team: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "https://google.com/+RaffaelTancman"}
-    - {name: "twitter", link: "https://twitter.com/rtancman"}
-    - {name: "github", link: "https://github.com/rtancman"}
-    - {name: "site", link: "http://rtancman.com.br/"}
--
-  id: 5
-  name: "Fredd"
-  surname: "Gomes"
-  title: "Organizer"
-  thumbnailUrl: freddgomes.jpg
-  team: true
-  ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    #- {name: "github", link: "https://github.com/zasadnyy"}
-    #- {name: "site", link: "http://zasadnyy.com/"}
+# -
+#   id: 2
+#   name: "Lucas"
+#   surname: "Trindade"
+#   title: "Organizer"
+#   thumbnailUrl: lucas_trindade.jpg
+#   team: true
+#   ribbon:
+#     #- {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#     #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#     #- {name: "github", link: "https://github.com/zasadnyy"}
+#     #- {name: "site", link: "http://zasadnyy.com/"}
+# -
+#   id: 3
+#   name: "Raysa"
+#   surname: "Dutra"
+#   title: "Organizer"
+#   thumbnailUrl: raysadutra.jpg
+#   team: true
+#   ribbon:
+#     #- {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#     #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#     #- {name: "github", link: "https://github.com/zasadnyy"}
+#     #- {name: "site", link: "http://zasadnyy.com/"}
+# -
+#   id: 4
+#   name: "Raffael"
+#   surname: "Tancman"
+#   title: "Organizer"
+#   thumbnailUrl: raffael.jpg
+#   team: true
+#   ribbon:
+#     #- {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+RaffaelTancman"}
+#     - {name: "twitter", link: "https://twitter.com/rtancman"}
+#     - {name: "github", link: "https://github.com/rtancman"}
+#     - {name: "site", link: "http://rtancman.com.br/"}
+# -
+#   id: 5
+#   name: "Fredd"
+#   surname: "Gomes"
+#   title: "Organizer"
+#   thumbnailUrl: freddgomes.jpg
+#   team: true
+#   ribbon:
+#     #- {abbr: "GDG", title: "Google Developer Group"}
+#   social:
+#     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+#     #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
+#     #- {name: "github", link: "https://github.com/zasadnyy"}
+#     #- {name: "site", link: "http://zasadnyy.com/"}

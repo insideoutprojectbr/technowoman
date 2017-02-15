@@ -51,11 +51,11 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://www.eventbrite.com.br/e/rio-dev-day-tickets-28344870270?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing", text: "Participe do Evento"}
+ # - {link: "https://www.eventbrite.com.br/e/rio-dev-day-tickets-28344870270?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing", text: "Participe do Evento"}
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
 
 rightNavigationButtons:
- - {link: "https://www.eventbrite.com.br/e/rio-dev-day-tickets-28344870270?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing", text: "Participe do Evento"}
+ # - {link: "https://www.eventbrite.com.br/e/rio-dev-day-tickets-28344870270?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing", text: "Participe do Evento"}
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
 
 
