@@ -1,372 +1,79 @@
- -
-   id: 1
-   name: "Pedro"
-   surname: "Marins"
-   company: "Caelum e Ministério Público"
-   title: ""
-   bio: "Desenvolvedor front-end no Ministério Público do Estado do Rio de Janeiro; Instrutor da formação front-end na Caelum; Fanfarrão Lider na Sparkit."
-   thumbnailUrl: pedromarins.png
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     #- {name: "twitter", link: "https://twitter.com/gabrielclima"}
-     - {name: "github", link: "https://github.com/pedromarins"}
+ # -
+ #   id: 1
+ #   name: ""
+ #   surname: ""
+ #   company: ""
+ #   title: ""
+ #   bio: ""
+ #   thumbnailUrl: name.png
+ #   rockstar: true
+ #   ribbon:
+ #     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+ #   social:
+ #     #- {name: "google-plus", link: "https://plus.google.com/name/"}
+ #     #- {name: "twitter", link: "https://twitter.com/name"}
+ #     - {name: "github", link: "https://github.com/name"}
 
- -
-   id: 2
-   name: "Afonso"
-   surname: "Pacifer"
-   company: ""
-   title: ""
-   bio: ""
-   thumbnailUrl: afonsopacifer.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
-     - {name: "github", link: "https://github.com/afonsopacifer"}
+ # -
+ #   id: 2
+ #   name: ""
+ #   surname: ""
+ #   company: ""
+ #   title: ""
+ #   bio: ""
+ #   thumbnailUrl: name.jpg
+ #   rockstar: true
+ #   ribbon:
+ #     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+ #   social:
+ #     #- {name: "google-plus", link: "https://plus.google.com/name/"}
+ #     #- {name: "twitter", link: "https://twitter.com/name"}
+ #     - {name: "github", link: "https://github.com/name"}
 
  -
    id: 3
-   name: "Diego"
-   surname: "Cacau"
-   company: "Laboratório de Metrologia Dimensional e Computacional"
-   title: "Pesquisador no Laboratório de Metrologia Dimensional e Computacional (LMDC - UFF), estudo ciência da computação na UFF e freelancer nas horas vagas."
-   bio: ""
-   thumbnailUrl: diegocacau.png
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
-     - {name: "github", link: "https://github.com/diegocacau"}
-
- -
-   id: 4
-   name: "Raphael"
-   surname: "Klaus"
-   company: "Lab21k"
-   title: "Full Stack Engineer at lab21k."
-   bio: ""
-   thumbnailUrl: RaphaelKlaus.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     #- {name: "twitter", link: "https://twitter.com/afonsopacifer"}
-     - {name: "github", link: "https://github.com/raphaklaus"}
-
- -
-   id: 5
-   name: "Cris"
-   surname: "Motinha"
-   company: "Locker"
-   title: "Dev Jr na empresa Locker"
-   bio: ""
-   thumbnailUrl: crismontinha.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     - {name: "twitter", link: "https://twitter.com/crismotinha"}
-     - {name: "github", link: "https://github.com/crismotinha"}
-
- -
-   id: 6
-   name: "Jefferson "
-   surname: "Souza"
-   company: "Programador Master na Nasajon Sistemas"
+   name: "Andressa"
+   surname: "Chiara"
+   company: "Concrete Solutions"
    title: ""
    bio: ""
-   thumbnailUrl: jeffersonsouza.jpg
+   thumbnailUrl: AndressaChiara.jpg
    rockstar: true
    ribbon:
      #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
    social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     - {name: "twitter", link: "http://twitter.com/jeffersonsouza"}
-     - {name: "github", link: "http://github.com/jeffersonsouza"}
- -
-   id: 7
-   name: "Luis"
-   surname: "Mangia"
-   company: ""
-   title: "Front End, frequentador de vários MeetUps como: FERMUG, Rio JS, criativos da Baixada"
-   bio: ""
-   thumbnailUrl: mangia.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     - {name: "twitter", link: "https://twitter.com/lfmangia"}
-     - {name: "github", link: "https://github.com/luisfernandomangia"}
+     #- {name: "google-plus", link: "https://plus.google.com/114776908774110581853"}
+     - {name: "twitter", link: "https://twitter.com/andressachiara"}
+     # - {name: "github", link: "https://github.com/andressachiara"}
 
- -
-   id: 8
-   name: "Douglas"
-   surname: "Drumond"
-   company: "Mokriya (Cupertino, CA)"
-   title: "Senior Android developer na Mokriya (Cupertino, CA) e fundador e organizador do GDG Campinas. Antigo mantenedor do MacVim. Fotógrafo hobbyista."
-   bio: ""
-   thumbnailUrl: DouglasDrumond.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     - {name: "twitter", link: "https://twitter.com/douglasdrumond"}
-     - {name: "github", link: "https://github.com/douglasdrumond"}
+ # -
+ #   id: 4
+ #   name: ""
+ #   surname: ""
+ #   company: ""
+ #   title: ""
+ #   bio: ""
+ #   thumbnailUrl: name.jpg
+ #   rockstar: true
+ #   ribbon:
+ #     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+ #   social:
+ #     #- {name: "google-plus", link: "https://plus.google.com/name/"}
+ #     #- {name: "twitter", link: "https://twitter.com/name"}
+ #     - {name: "github", link: "https://github.com/name"}
 
- -
-   id: 9
-   name: "Andre"
-   surname: "Fonseca"
-   company: "Bemobi / Opera"
-   title: "Sr System Engineer and Backend Specialist at Bemobi / Opera"
-   bio: ""
-   thumbnailUrl: AndreFonseca.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     - {name: "twitter", link: "https://twitter.com/aoqfonseca"}
-     - {name: "github", link: "https://github.com/aoqfonseca"}
-
- -
-   id: 10
-   name: "Carlos"
-   surname: "Henrique"
-   company: "Som Livre (Globo)"
-   title: "Full Stack web developer na Som Livre(Globo) e Palestrante na comunidade PHPRio."
-   bio: ""
-   thumbnailUrl: CarlosHenrique.jpeg
-   rockstar: true
-   ribbon:
-     #- {abbr: "Android Dev BR", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-     #- {abbr: "GDG São Paulo", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+GabrielCSLima/"}
-     - {name: "twitter", link: "https://twitter.com/carloshperc"}
-     - {name: "github", link: "https://github.com/carloshpdoc"}
-
- -
-   id: 11
-   name: "Diogo"
-   surname: "Padilha"
-   company: "Universidade Severino Sombra"
-   title: "Estudante de Engenharia de Computação - Universidade Severino Sombra"
-   thumbnailUrl: DiogoPadilha.jpg
-   rockstar: true
-
- -
-   id: 12
-   name: "Matheus"
-   surname: "Rivello"
-   company: "Universidade Severino Sombra"
-   title: "Estudante de Engenharia de Computação - Universidade Severino Sombra"
-   thumbnailUrl: MatheusRivello.jpg
-   rockstar: true
-
- -
-   id: 13
-   name: "Raphael"
-   surname: "Amorim"
-   company: "Globo.com"
-   title: "Desenvolvedor Globo.com"
-   thumbnailUrl: raphaelamorim.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+LucasKTrindade/"}
-     #- {name: "twitter", link: "https://twitter.com/lucasktrindade"}
-     - {name: "github", link: "https://github.com/raphamorim"}
-
- -
-   id: 14
-   name: "Jhonny"
-   surname: "Mosquera"
-   company: "Trilha Digital"
-   title: "Co-founder Trilha Digital"
-   thumbnailUrl: Jhonny.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+LucasKTrindade/"}
-     - {name: "twitter", link: "https://twitter.com/jhonnynetworker"}
-     #- {name: "github", link: "https://github.com/raphamorim"}
-
- -
-   id: 15
-   name: "Fernando"
-   surname: "Masanori"
-   company: "FATEC"
-   title: "Fernando é professor da FATEC São José dos Campos, adora dar aulas, graduado em Computação pelo IME-USP, mestrado pelo ITA. Já desenvolveu projetos para Credicard Mastercard e Itaú BankBoston. Nos dois últimos anos deu mais de cem palestras e minicursos, na comunidade Python, viajando pelo Brasil e outros quinze países. É o criador do Python para Zumbis http://pycursos.com/python-para-zumbis/ Python é a sua desculpa para fazer amigos pelo mundo. Nos finais de semana ajuda em projetos sociais ligados à educação infantil. Os contatos dele você encontra em https://about.me/fmasanori"
-   thumbnailUrl: FernandoMasaroni.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     - {name: "google-plus", link: "https://plus.google.com/+FernandoMasanoriAshikaga"}
-     - {name: "twitter", link: "https://twitter.com/fmasanori"}
-     - {name: "github", link: "https://github.com/fmasaroni"}
-
- -
-   id: 16
-   name: "Anrã"
-   surname: "Fernandes"
-   company: "Universidade Severino Sombra"
-   title: "Atualmente sou professor universitário na Universidade Severino Sombra em Vassouras no curso de Engenharia de Computação. Trabalho com desenvolvimento de software para algumas empresas de pequeno porte na cidade onde moro. Adoro tecnologia. Curto demais participar de eventos, aprender coisas novas e ainda, compartilhar conhecimento. Sou um dos organizadores do GDG Três Rios e do GDG Vassouras."
-   thumbnailUrl: Anra.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     - {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     - {name: "twitter", link: "https://twitter.com/AnraFernandes"}
-     #- {name: "github", link: "https://github.com/fmasaroni"}
-
- -
-   id: 17
-   name: "Daniel"
-   surname: "Rocha"
-   company: ""
-   title: "Liderando o desenvolvimento mobile de uma startup focada em finanças. Desenvolvimento de aplicativos internos e para o varejo em geral. Um dos aplicativos aberto para o publico é o \"PiggyPeg\" disponivel para Android e iOS."
-   thumbnailUrl: DanielRocha.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/AnraFernandes"}
-     - {name: "github", link: "https://github.com/rochadaniel"}
-
- -
-   id: 18
-   name: "Marcos"
-   surname: "Felipe"
-   company: ""
-   title: "Consultor/mentor online (https://www.codementor.io/mrodrigues) e programador freelancer."
-   thumbnailUrl: MarcosFelipe.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     - {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     - {name: "github", link: "https://github.com/oddlyfunctional"}
-
- -
-   id: 19
-   name: "Lucas"
-   surname: "Soares"
-   company: "NAVE LABS"
-   title: "Estudante de Programação no NAVE, membro do grupo de pesquisa e disseminação de robótica – NAVE LABS, amante de programação e robótica, atuante no desenvolvimento de projetos com Arduino, softwares, jogos 2D, 3D e aplicativos, iniciante na área de Ethical Hacking. Em uma frase: \"Programar ensina a pensar\"."
-   thumbnailUrl: LucasSoares.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     - {name: "github", link: "https://github.com/lucassoaress"}
-
- -
-   id: 20
-   name: "Vinicius"
-   surname: "Reis"
-   company: "Decision6"
-   title: "Engenheiro de Aplicações na Decision6 e Codecaster no codecasts.com.br."
-   thumbnailUrl: viniciusreis.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     - {name: "github", link: "https://github.com/vinicius73"}
-
- -
-   id: 21
-   name: "Elisio"
-   surname: "Filho"
-   company: ""
-   title: ""
-   thumbnailUrl: Elisio.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     #- {name: "github", link: "https://github.com/vinicius73"}
-     
- - 
-   id: 22
-   name: "Lucas"
-   surname: "Alves"
-   company: "NAVE LABS"
-   title: "Estudante de Programação, NAVE, membro do grupo de pesquisa e disseminação de robótica – NAVE LABS, entusiasta de robótica e amante de Game Design, atuante no desenvolvimento de jogos 2D, 3D e analógicos, sendo iniciante na atuação de Scrum Master, em uma frase: \"Jogos tem a capacidade de mudar o mundo!\"."
-   thumbnailUrl: LucasAlves.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     - {name: "github", link: "https://github.com/LucaAlvesNaveRio"}
-     
- - 
-   id: 23
-   name: "Patrick"
-   surname: "Scoralick"
-   company: "NAVE LABS"
-   title: "Estudante de Programação, NAVE, membro do grupo de pesquisa e disseminação de robótica – NAVE LABS, amante de robótica, entusiasta por jogos, em uma frase: \"Uma mente que se expande a uma nova ideia, jamais retorna ao seu tamanho original\"."
-   thumbnailUrl: Patrick.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     - {name: "github", link: "https://github.com/patrickscoralickcosta"}
- - 
-   id: 24
-   name: "Victor"
-   surname: "Novais"
-   company: "B2W"
-   title: ""
-   thumbnailUrl: VictorNovais.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     # - {name: "github", link: "https://github.com/patrickscoralickcosta"}
- - 
-   id: 25
-   name: "Júlio"
-   surname: "Vaz"
-   company: "Stone"
-   title: "Desenvolvedor que está mudando o cenário de pagamentos no Brasil com a Stone utilizando GO, Python e Javascript."
-   thumbnailUrl: JulioVaz.jpg
-   rockstar: true
-   ribbon:
-     #- {abbr: "GDG", title: "Google Developer Co-organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
-   social:
-     #- {name: "google-plus", link: "https://plus.google.com/+AnrafelFernandesPereira"}
-     #- {name: "twitter", link: "https://twitter.com/oddlyfunctional"}
-     # - {name: "github", link: "https://github.com/patrickscoralickcosta"}
+ # -
+ #   id: 5
+ #   name: ""
+ #   surname: ""
+ #   company: ""
+ #   title: ""
+ #   bio: ""
+ #   thumbnailUrl: name.jpg
+ #   rockstar: true
+ #   ribbon:
+ #     #- {abbr: "GDG", title: "Google Developer Organizer", url: "https://developers.google.com/groups/chapter/gdgduquedecaxias/"}
+ #   social:
+ #     #- {name: "google-plus", link: "https://plus.google.com/name/"}
+ #     - {name: "twitter", link: "https://twitter.com/name"}
+ #     - {name: "github", link: "https://github.com/name"}
