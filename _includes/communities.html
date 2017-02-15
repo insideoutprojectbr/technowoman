@@ -5,7 +5,7 @@
             {% for community in site.data.communities %}
             <div class="effect-wrapper col-md-4 col-sm-6 col-xs-12 cols-centered appear-animation">
                 <div class="zoe-effect">
-                    <figure class="waves-effect waves-block waves-light" style="background-image: url({{ site.baseurl | append: '/img/organizers/' | append: community.thumbnailUrl }})">
+                    <figure class="waves-effect waves-block waves-light" style="background-repeat: no-repeat;background-image: url({{ site.baseurl | append: '/img/organizers/' | append: community.thumbnailUrl }})">
                         <div class="overlay solid-overlay"></div>
                         <figcaption>
                             <div class="col-md-6 text-left">
