@@ -63,9 +63,9 @@ rightNavigationButtons:
 heroImage: "rio-walp.png"
 logoUnigranrio: "technowoman-logo.png"
 heroTitle: "TechnoWoman - <typeout>"
-eventDate: "11 de maio de 2017"
-typeoutTextValues: '"InsideOut Project", "Pyladies Rio", "Woman Techmakers Rio", "Django Girls", "Python Rio", "Ruby on Rio"'
-typeoutFallback: "Season"
+eventDate: "11 de março de 2017"
+typeoutTextValues: '"Dia da Mulher", "InsideOut Project", "Pyladies Rio", "Woman Techmakers Rio", "Django Girls", "Python Rio", "Ruby on Rio"'
+typeoutFallback: "Dia da Mulher"
 heroButtons:
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
  - {permalink: "/#tickets", text: "Buy tickets"}
@@ -188,8 +188,8 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.estacio.br/", text: "Universidade Estácio de Sá"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://insideoutproject.xyz", text: "InsideOut Project Brasil"}
+   # - {link: "https://developers.google.com", text: "Google Developers"}
 
  -
   title: "Contatos"
