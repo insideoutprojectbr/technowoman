@@ -63,7 +63,7 @@ rightNavigationButtons:
 heroImage: "rio-walp-light.png"
 logoUnigranrio: "technowoman-logo.png"
 heroTitle: "TechnoWoman - <typeout>"
-eventDate: "11 de março de 2017"
+eventDate: "25 de março de 2017"
 typeoutTextValues: '"Dia da Mulher", "InsideOut Project", "Pyladies Rio", "Woman Techmakers Rio", "Django Girls", "Python Rio", "Ruby on Rio"'
 typeoutFallback: "Dia da Mulher"
 heroButtons:
