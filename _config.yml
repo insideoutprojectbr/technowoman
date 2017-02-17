@@ -12,25 +12,25 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "TechnoWoman"
 email: "contato@insideoutproject.com.br"
-description: "Evento para juntar as comunidades de desenvolvimento do Rio."
+description: "Encontro de mulheres da Tecnologia."
 baseurl: "/technowoman"
 url: "insideoutproject.xyz/technowoman"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsTrackingId: "UA-68652979-1"
+googleAnalyticsSiteUrl: "http://insideoutproject.xyz/technowoman/"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Seres Humanos que curtem tecnologia"
-organizerAlternateName: "Seres Humanos que curtem tecnologia"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "jonatasemidio@gmail.com"
+organizerName: "Insideout Project"
+organizerAlternateName: "Insideout Project | Promovendo a diversidade na área tecnológica."
+organizerDescription: "Insideout Project é uma organização sem fins lucrativos. Buscamos promover a diversidade na área tecnológica porque acreditamos que as mais diversas ideias e experiências contribuem para o avanço na tecnologia."
+organizerEmail: "contato@insideoutproject.com.br"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://insideoutproject.xyz/technowoman"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, rio"
-twitterAccount: "@gdgrio"
+metaKeywords: "woman, women, mulheres, tecnologia, steam, tech, event, programming, developers, rio"
+twitterAccount: ""
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -44,10 +44,10 @@ c4pUrl: "https://goo.gl/forms/yD2sEXxqfsssUZLn2"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Programação"}
- - {permalink: "/speakers/", text: "Palestrantes"}
- - {permalink: "/team/", text: "Organizadores"}
- - {permalink: "/communities/", text: "Comunidades"}
+# - {permalink: "/schedule/", text: "Programação"}
+# - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/team/", text: "Organizadoras"}
+# - {permalink: "/communities/", text: "Comunidades"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -73,17 +73,18 @@ heroButtons:
 # About Block
 aboutTitle: "Sobre o TechnoWoman"
 aboutBlock:
- - {title: "Palestras", image: "bigdata.jpg", text: "Palestras sobre linguagens, frameworks e muito mais." }
- - {title: "Lightning Talks", image: "iot.png", text: "Lightning Talks, palestras mais rápidas sobre desenvolvimento." }
- - {title: "Workshops", image: "dev.png", text: "Workshops sobre novas linguagens, frameworks modernos e muito mais." }
+ - {title: "Palestras", image: "bigdata.jpg", text: "Palestras sobre mercado, tecnologia e nosso papel na sociedade." }
+ - {title: "Lightning Talks", image: "iot.png", text: "Pequenas apresentações de 5 minutos sobre qualquer coisa que te der na telha." }
+ - {title: "Workshops", image: "dev.png", text: "Duas horas e meia de puro aprendizado com profissionais renomadas no mercado." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "300", specialCharacter: "+", info: "participantes", detail: ""}
- - {count: "6", specialCharacter: "+", info: "horas", detail: "de palestras e conteúdo"}
- - {count: "20", specialCharacter: "+", info: "palestrantes", detail: "sinistros"}
- - {count: "1", specialCharacter: "", info: "dia", detail: "de puro aprendizado"}
+ - {count: "100", specialCharacter: "", info: "participantes", detail: ""}
+ - {count: "8", specialCharacter: "", info: "horas", detail: "de conteúdo"}
+ - {count: "5", specialCharacter: "", info: "palestras", detail: "inspiradoras"}
+ - {count: "2", specialCharacter: "", info: "workshops", detail: "incríveis"}
+ - {count: "1", specialCharacter: "", info: "dia", detail: "de informação e networking"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -181,9 +182,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/114684774037479279638/", icon: "google-plus"}
- - {link: "https://twitter.com/gdgcaxias", icon: "twitter"}
- - {link: "https://www.facebook.com/gdgduquedecaxias/", icon: "facebook"}
+ # - {link: "https://plus.google.com/114684774037479279638/", icon: "google-plus"}
+ # - {link: "https://twitter.com/gdgcaxias", icon: "twitter"}
+ - {link: "https://www.facebook.com/InsideOutProjectBrasil", icon: "facebook"}
+ - {link: "https://github.com/insideoutprojectbr", icon: "github"}
 footerBlocks:
  -
   title: "Links"
@@ -207,7 +209,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "Somos um grupo de desenvolvedores de várias linguagens, de várias comunidades que decidimos nos unir e fazer um evento misturando tudo o que tem de melhor."
+aboutUs: "Quem são as voluntárias por trás do TechnoWoman?"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
