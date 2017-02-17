@@ -4,9 +4,10 @@
 #     - {name: "B2W", description: "", link: "https://www.b2wdigital.com/", imageUrl: "b2w.png"}
 #     - {name: "Stone Pagamentos", description: "", link: "https://www.stone.com.br/", imageUrl: "stonepagamentos.png"}
 
-# -
-#   group: "Apoios"
-#   elements:
+ -
+   group: "Apoios"
+   elements:
+     - {name: "PyLadies Rio", description: "PyLadies Rio", link: "http://rio.pyladies.com/", imageUrl: "pyladiesrio.png"}
 #     - {name: "Estácio de Sá", description: "Estácio de Sá", link: "http://www.estacio.br/", imageUrl: "logo-estacio.png"}
 #     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "logo-jetbrains.png"}
 #     - {name: "Editora Novatec", description: "Editora Novatec", link: "https://novatec.com.br/", imageUrl: "novatec.png"}

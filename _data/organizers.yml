@@ -1,6 +1,9 @@
-# -
-  # group: "Voluntários"
-  # elements:
+ -
+   group: "Voluntários"
+   elements:
+     - {name: "Darlene Medeiros", description: "Darlene Medeiros", link: "https://github.com/darlenedms", imageUrl: "darlene.jpg"}
+     - {name: "Paula Grangeiro", description: "Paula Grangeiro", link: "http://paulagrangeiro.com.br/", imageUrl: "paula.jpg"}
+     - {name: "Samanta Cicilia", description: "Paola Katherine", link: "https://medium.com/@samantacicilia", imageUrl: "samanta.jpg"}
   #   - {name: "Paola Katherine", description: "Paola Katherine", link: "http://www.about.me/pkcpweb", imageUrl: "paola.jpg"}
   #   - {name: "Raysa Dutra", description: "Raysa Dutra", link: "http://contactup.io/_u1276/", imageUrl: "raysadutra.jpg"}
   #   # - {name: "Gabriel Lima", description: "Gabriel Lima", link: "http://www.unigranrio.com.br/", imageUrl: "unigranrio.png"}

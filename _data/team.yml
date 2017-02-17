@@ -1,45 +1,44 @@
-# -
-#   id: 0
-#   name: "Paola Katherine"
-#   surname: "Pacheco"
-#   title: "Organizer"
-#   thumbnailUrl: paola.jpg
-#   team: true
-#   ribbon:
-#     #- {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-#     - {name: "twitter", link: "https://twitter.com/pk_pacheco"}
-#     - {name: "github", link: "https://github.com/PKpacheco"}
-#     - {name: "site", link: "http://about.me/pkcpweb"}
-# -
-#   id: 1
-#   name: "Gabriel"
-#   surname: "Lima"
-#   title: "Organizer"
-#   thumbnailUrl: GabrielLima.jpg
-#   team: true
-#   ribbon:
-#     - {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     - {name: "google-plus", link: "https://google.com/+GabrieldeCastroSLima"}
-#     - {name: "twitter", link: "https://twitter.com/gabrielcslima"}
-#     - {name: "github", link: "https://github.com/gabrielclima'"}
+ -
+   id: 0
+   name: "Darlene"
+   surname: "Medeiros"
+   title: "Organizer"
+   thumbnailUrl: darlene.jpg
+   team: true
+   ribbon:
+     - {abbr: "PyLadies", title: "PyLady Rio"}
+   social:
+     - {name: "github", link: "https://github.com/darlenedms"}
+     - {name: "facebook", link: "https://www.facebook.com/darlene.medeiros.169"}
+ -
+   id: 1
+   name: "Paula"
+   surname: "Grangeiro"
+   title: "Organizer"
+   thumbnailUrl: paula.jpg
+   team: true
+   ribbon:
+     - {abbr: "PyLadies", title: "PyLady Rio"}
+   social:
+     - {name: "twitter", link: "https://twitter.com/paulagrangeiro"}
+     - {name: "github", link: "https://github.com/pgrangeiro'"}
+     - {name: "facebook", link: "https://www.facebook.com/paula.grangeiro"}
+     - {name: "site", link: "http://www.paulagrangeiro.com.br/"}
 
-# -
-#   id: 2
-#   name: "Lucas"
-#   surname: "Trindade"
-#   title: "Organizer"
-#   thumbnailUrl: lucas_trindade.jpg
-#   team: true
-#   ribbon:
-#     #- {abbr: "GDG", title: "Google Developer Group"}
-#   social:
-#     #- {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-#     #- {name: "twitter", link: "https://twitter.com/zasadnyy"}
-#     #- {name: "github", link: "https://github.com/zasadnyy"}
-#     #- {name: "site", link: "http://zasadnyy.com/"}
+ -
+   id: 2
+   name: "Samanta"
+   surname: "Cicilia"
+   title: "Organizer"
+   thumbnailUrl: samanta.jpg
+   team: true
+   ribbon:
+     - {abbr: "Rails Girls", title: "Rails Girl"}
+   social:
+     - {name: "twitter", link: "https://twitter.com/samantacicilia"}
+     - {name: "github", link: "https://github.com/samycici"}
+     - {name: "facebook", link: "https://www.facebook.com/samanta.cicilia"}
+     - {name: "site", link: "https://medium.com/@samantacicilia"}
 # -
 #   id: 3
 #   name: "Raysa"
