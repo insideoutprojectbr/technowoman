@@ -64,7 +64,7 @@ heroImage: "rio-walp-light.png"
 logoUnigranrio: "technowoman-logo.png"
 heroTitle: "TechnoWoman - <typeout>"
 eventDate: "25 de março de 2017"
-typeoutTextValues: '"Dia da Mulher", "InsideOut Project", "Pyladies Rio", "Woman Techmakers Rio", "Django Girls", "Python Rio", "Ruby on Rio"'
+typeoutTextValues: '"Mês da Mulher", "Tecnologia", "Maternidade", "Carreira", "Networking"'
 typeoutFallback: "Dia da Mulher"
 heroButtons:
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
