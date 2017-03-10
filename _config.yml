@@ -63,8 +63,8 @@ rightNavigationButtons:
 heroImage: "rio-walp-light.png"
 logoUnigranrio: "technowoman-logo.png"
 heroTitle: "TechnoWoman - <typeout>"
-eventDate: "25 de março de 2017"
-typeoutTextValues: '"Mês da Mulher", "Tecnologia", "Maternidade", "Carreira", "Networking"'
+eventDate: "15 de abril de 2017"
+typeoutTextValues: '"Mulher", "Tecnologia", "Maternidade", "Carreira", "Networking"'
 typeoutFallback: "Dia da Mulher"
 heroButtons:
  #- {link: "https://goo.gl/forms/yD2sEXxqfsssUZLn2", text: "Seja um Palestrante"}
@@ -97,22 +97,22 @@ rockstarSpeakersButtonText: "Ver todos os palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Universidade Estácio de Sá campus Nova América"
-eventLocationLink: "#"
-eventStreetAddress: "Estado do Rio de Janeiro"
+eventLocationName: "IBM"
+eventLocationLink: "https://www.ibm.com"
+eventStreetAddress: "Av. Pasteur, 138/146 - Botafogo"
 eventAddressLocality: "Estado do Rio de Janeiro"
 eventAddressLocalityRegion: "Rio de Janeiro"
 eventPostalCode: ""
 eventAddressCountry: "Brasil"
-eventStartTime: "2016-11-19T10:00"
+eventStartTime: "2017-04-15T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-11-19T17:00"
-eventPlaceCoordinates: "-22.8782071,-43.272322"
-mapCenterCoordinates: "-22.8782071,-43.272322"
-mapMobileCenterCoordinates: "-22.8782071,-43.272322"
+eventEndTime: "2017-04-15T18:00"
+eventPlaceCoordinates: "-22.9504552,-43.1793916"
+mapCenterCoordinates: "-22.9504552,-43.1793916"
+mapMobileCenterCoordinates: "-22.9504552,-43.1793916"
 
 # Venue Block
-venueBlockTitle: "Estácio - Shopping Nova América"
+venueBlockTitle: "IBM"
 venueBigImage: "auditorio.jpg"
 venueSmallImage1: "novaamerica.png"
 venueSmallImage2: "novaamerica-2.jpg"
